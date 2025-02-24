@@ -11,14 +11,10 @@
             "id": "7a776140098c16fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "COSC364/Lecture Notes/1. DASK Introduction.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. DASK Introduction"
+              "title": "New tab"
             }
           },
           {
@@ -90,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b9b39a4b08c8436",
