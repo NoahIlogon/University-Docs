@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "702578a8337acf07",
+        "id": "4d0a6738d31a5b09",
         "type": "tabs",
         "children": [
           {
-            "id": "7a776140098c16fc",
+            "id": "813ce842a752948f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "652ad891e45b300d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "DATA301/Notes/2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "2"
             }
           }
         ]
@@ -86,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b9b39a4b08c8436",
@@ -102,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COSC364/Lecture Notes/1..md",
+                "file": "DATA301/Notes/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1."
+              "title": "Backlinks for 2"
             }
           },
           {
@@ -163,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,16 +169,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a776140098c16fc",
+  "active": "813ce842a752948f",
   "lastOpenFiles": [
+    "DATA301/Notes/1.md",
+    "DATA301/Notes/2.md",
+    "DATA301/Notes/Mining of Massive Datasets (Third Edition) (Jure Leskovec, Anand Rajaraman etc.) (Z-Library).pdf",
+    "COSC364/ai_router.py",
+    "COSC364/Reverse Engineer/Commentary/1Server.py",
+    "COSC364/Reverse Engineer/README.md",
+    "COSC364/Reverse Engineer/Commentary/commentedServer.py",
+    "COSC364/Reverse Engineer/commentedServer.py",
+    "COSC364/Reverse Engineer/Commentary",
+    "COSC364/Reverse Engineer/New folder",
+    "DATA301/Notes/Introduction to parallel computing [a practical guide with examples in C] (W. P. Petersen, P. Arbenz) (Z-Library).pdf",
     "COSC364/Lecture Notes/Screenshot 2025-02-19 at 4.48.17 PM.png",
     "COSC364/Lecture Notes/Screenshot 2025-02-19 at 4.45.29 PM.png",
     "DATA301/Lecture Notes",
     "COSC364/ripv2-rip-v2-2.pdf",
     "COSC364/Lecture Notes/1. DASK Introduction.md",
-    "COSC362/COSC362 - Section 1 - Overview (EN).pdf",
-    "COSC368/cosc368-eoy-review-summary-humans-and-computers.pdf",
-    "COSC364/Lecture Notes/dasdsad.md",
-    "COSC364/Lecture Notes"
+    "COSC364/Lecture Notes/dasdsad.md"
   ]
 }
