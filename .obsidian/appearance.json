@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Terminal",
-  "baseFontSize": 18
+  "cssTheme": "Minimal",
+  "baseFontSize": 18,
+  "showRibbon": false
 }
