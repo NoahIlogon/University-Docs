@@ -23,8 +23,8 @@ INFINITY = 16
 class Router:
     
     def __init__(self, router_id, inputs, outputs, timer_value):
-        # Initialise the Router setup with all the information from the Configuration File.
-        self.id = router_id
+        # Initialise the Router setup with all the information from the Configurat3              ion File.
+        self.id = router_id 
         self.inputs = inputs
         self.outputs = outputs
         self.timer_value = timer_value
