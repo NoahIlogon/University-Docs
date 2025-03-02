@@ -12,6 +12,12 @@ Execute with:
 ================================
 python3 router.py <config_file>
 ================================
+
+Other sources:
+https://github.com/msa280/COSC364-RIPv2-Project
+
+
+
 """
 
 import sys
