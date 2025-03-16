@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6320a057d98d2f2e",
+        "id": "7afe5068d7ec09c0",
         "type": "tabs",
         "children": [
           {
-            "id": "58c5b467bcf85ba4",
+            "id": "f89eb50ad035b357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COSC364/Lecture Notes/2. Routing.md",
+                "file": "DATA301/Notes/Lab02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Routing"
+              "title": "Lab02"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b9b39a4b08c8436",
@@ -168,10 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58c5b467bcf85ba4",
+  "active": "f89eb50ad035b357",
   "lastOpenFiles": [
-    "DATA301/Notes/1.md",
+    "DATA301/Notes/Pasted image 20250316223944.png",
+    "DATA301/Notes/Pasted image 20250316223832.png",
     "DATA301/Notes/2.md",
+    "DATA301/Notes/Lab02.md",
+    "DATA301/Labs/Lab02",
+    "DATA301/Notes/4.md",
+    "DATA301/Labs/Lab01/3.md",
+    "DATA301/Labs/Lab01",
+    "DATA301/Notes/1.md",
     "COSC364/Labs/Unix.md",
     "2025-02-27.md",
     "DATA301/Notes/Pasted image 20250227222628.png",
@@ -188,8 +196,6 @@
     "DATA301/Notes/Introduction to parallel computing [a practical guide with examples in C] (W. P. Petersen, P. Arbenz) (Z-Library).pdf",
     "COSC364/Lecture Notes/Screenshot 2025-02-19 at 4.48.17 PM.png",
     "COSC364/Lecture Notes/Screenshot 2025-02-19 at 4.45.29 PM.png",
-    "DATA301/Lecture Notes",
-    "COSC364/ripv2-rip-v2-2.pdf",
     "COSC364/Lecture Notes/1. DASK Introduction.md",
     "COSC364/Lecture Notes/dasdsad.md"
   ]
