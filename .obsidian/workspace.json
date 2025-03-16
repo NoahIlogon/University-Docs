@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "DATA301/Notes/Lab02.md",
+=======
+                "file": "DATA301/Notes/4 Cloud-Computing.md",
+>>>>>>> 1dc9a9148a2a474d97109b2ae3f993808b146011
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Lab02"
+=======
+              "title": "4 Cloud-Computing"
+>>>>>>> 1dc9a9148a2a474d97109b2ae3f993808b146011
             }
           }
         ]
@@ -171,8 +179,17 @@
   },
   "active": "f89eb50ad035b357",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "DATA301/Notes/Pasted image 20250316223944.png",
     "DATA301/Notes/Pasted image 20250316223832.png",
+=======
+    "DATA301/Notes/Screenshot 2025-03-15 at 3.29.18 PM.png",
+    "DATA301/Notes/Screenshot 2025-03-15 at 3.05.42 PM.png",
+    "DATA301/Notes/Screenshot 2025-03-15 at 3.05.08 PM.png",
+    "DATA301/Notes/Screenshot 2025-03-15 at 2.58.51 PM.png",
+    "COSC364/Lecture Notes/2. Routing.md",
+    "DATA301/Notes/1.md",
+>>>>>>> 1dc9a9148a2a474d97109b2ae3f993808b146011
     "DATA301/Notes/2.md",
     "DATA301/Notes/Lab02.md",
     "DATA301/Labs/Lab02",
