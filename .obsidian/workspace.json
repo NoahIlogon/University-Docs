@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COSC364/Lecture Notes/2. Routing.md",
+                "file": "DATA301/Notes/4 Cloud-Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Routing"
+              "title": "4 Cloud-Computing"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b9b39a4b08c8436",
@@ -170,6 +171,11 @@
   },
   "active": "58c5b467bcf85ba4",
   "lastOpenFiles": [
+    "DATA301/Notes/Screenshot 2025-03-15 at 3.29.18 PM.png",
+    "DATA301/Notes/Screenshot 2025-03-15 at 3.05.42 PM.png",
+    "DATA301/Notes/Screenshot 2025-03-15 at 3.05.08 PM.png",
+    "DATA301/Notes/Screenshot 2025-03-15 at 2.58.51 PM.png",
+    "COSC364/Lecture Notes/2. Routing.md",
     "DATA301/Notes/1.md",
     "DATA301/Notes/2.md",
     "COSC364/Labs/Unix.md",
