@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "108f3f400b9b92e4",
+    "id": "abd5956c2055346a",
     "type": "split",
     "children": [
       {
-        "id": "7afe5068d7ec09c0",
+        "id": "3460e3c629a4db5d",
         "type": "tabs",
         "children": [
           {
-            "id": "f89eb50ad035b357",
+            "id": "f0a18ea763c82aa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "DATA301/Notes/Lab02.md",
-=======
                 "file": "DATA301/Notes/4 Cloud-Computing.md",
->>>>>>> 1dc9a9148a2a474d97109b2ae3f993808b146011
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Lab02"
-=======
               "title": "4 Cloud-Computing"
->>>>>>> 1dc9a9148a2a474d97109b2ae3f993808b146011
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7c1e07b2a8227341",
+    "id": "025d913d52412174",
     "type": "split",
     "children": [
       {
-        "id": "3f46b37503cbb72e",
+        "id": "88d1761a207ebdd0",
         "type": "tabs",
         "children": [
           {
-            "id": "17b2f768e50422a7",
+            "id": "2b8a3f15e005ac14",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +48,7 @@
             }
           },
           {
-            "id": "89064e51bd57f73c",
+            "id": "c6dee3931b35416f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "865ad4f6e17631bd",
+            "id": "dec012fb08c8bc60",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,24 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "3b9b39a4b08c8436",
+    "id": "773de7e05b2c4b57",
     "type": "split",
     "children": [
       {
-        "id": "1c6780757bfbcb96",
+        "id": "f1f5f5f42e719efd",
         "type": "tabs",
         "children": [
           {
-            "id": "bccecc47eb1460ef",
+            "id": "5fd98d1f58530f00",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA301/Notes/2.md",
+                "file": "DATA301/Notes/4 Cloud-Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2"
+              "title": "Backlinks for 4 Cloud-Computing"
             }
           },
           {
-            "id": "3816b2746f3cec4d",
+            "id": "9ef023c31a87e626",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COSC364/Lecture Notes/1..md",
+                "file": "DATA301/Notes/4 Cloud-Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1."
+              "title": "Outgoing links from 4 Cloud-Computing"
             }
           },
           {
-            "id": "93bfbf20f7b1975f",
+            "id": "7020a4f09328c2b5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -146,25 +138,25 @@
             }
           },
           {
-            "id": "f8f8c371940d66ac",
+            "id": "e39d0752934b1a7c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "COSC364/Lecture Notes/1..md",
+                "file": "DATA301/Notes/4 Cloud-Computing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1."
+              "title": "Outline of 4 Cloud-Computing"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,43 +169,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f89eb50ad035b357",
+  "active": "f0a18ea763c82aa8",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "DATA301/Notes/Pasted image 20250316223944.png",
-    "DATA301/Notes/Pasted image 20250316223832.png",
-=======
-    "DATA301/Notes/Screenshot 2025-03-15 at 3.29.18 PM.png",
-    "DATA301/Notes/Screenshot 2025-03-15 at 3.05.42 PM.png",
-    "DATA301/Notes/Screenshot 2025-03-15 at 3.05.08 PM.png",
-    "DATA301/Notes/Screenshot 2025-03-15 at 2.58.51 PM.png",
-    "COSC364/Lecture Notes/2. Routing.md",
-    "DATA301/Notes/1.md",
->>>>>>> 1dc9a9148a2a474d97109b2ae3f993808b146011
-    "DATA301/Notes/2.md",
-    "DATA301/Notes/Lab02.md",
-    "DATA301/Labs/Lab02",
-    "DATA301/Notes/4.md",
-    "DATA301/Labs/Lab01/3.md",
-    "DATA301/Labs/Lab01",
-    "DATA301/Notes/1.md",
-    "COSC364/Labs/Unix.md",
-    "2025-02-27.md",
-    "DATA301/Notes/Pasted image 20250227222628.png",
-    "DATA301/Notes/Pasted image 20250227222339.png",
-    "DATA301/Notes/Pasted image 20250227222058.png",
-    "DATA301/Notes/Mining of Massive Datasets (Third Edition) (Jure Leskovec, Anand Rajaraman etc.) (Z-Library).pdf",
-    "COSC364/ai_router.py",
-    "COSC364/Reverse Engineer/Commentary/1Server.py",
-    "COSC364/Reverse Engineer/README.md",
-    "COSC364/Reverse Engineer/Commentary/commentedServer.py",
-    "COSC364/Reverse Engineer/commentedServer.py",
-    "COSC364/Reverse Engineer/Commentary",
-    "COSC364/Reverse Engineer/New folder",
-    "DATA301/Notes/Introduction to parallel computing [a practical guide with examples in C] (W. P. Petersen, P. Arbenz) (Z-Library).pdf",
-    "COSC364/Lecture Notes/Screenshot 2025-02-19 at 4.48.17 PM.png",
-    "COSC364/Lecture Notes/Screenshot 2025-02-19 at 4.45.29 PM.png",
-    "COSC364/Lecture Notes/1. DASK Introduction.md",
-    "COSC364/Lecture Notes/dasdsad.md"
+    "DATA301/Notes/Pasted image 20250317165629.png"
   ]
 }
