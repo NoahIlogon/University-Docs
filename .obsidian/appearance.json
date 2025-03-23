@@ -1,5 +1,6 @@
 {
   "cssTheme": "Primary",
   "baseFontSize": 18,
-  "showRibbon": false
+  "showRibbon": false,
+  "theme": "moonstone"
 }
