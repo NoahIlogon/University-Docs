@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3b9b39a4b08c8436",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATA301/Notes/2.md",
+                "file": "DATA301/Notes/5 Graph Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2"
+              "title": "Backlinks for 5 Graph Structures"
             }
           },
           {
@@ -171,6 +170,11 @@
   },
   "active": "58c5b467bcf85ba4",
   "lastOpenFiles": [
+    "DATA301/Notes/Screenshot 2025-03-23 at 2.31.39 PM.png",
+    "DATA301/Notes/IMG_5312.jpeg",
+    "DATA301/Notes/Screenshot 2025-03-23 at 1.40.22 PM.png",
+    "DATA301/Notes/Screenshot 2025-03-23 at 1.32.37 PM.png",
+    "DATA301/Notes/Screenshot 2025-03-23 at 1.26.53 PM.png",
     "DATA301/Notes/Pasted image 20250317165629.png",
     "DATA301/Notes/Pasted image 20250316223944.png",
     "DATA301/Notes/Pasted image 20250316223832.png",
@@ -178,14 +182,9 @@
     "DATA301/Notes/Screenshot 2025-03-23 at 1.23.43 PM.png",
     "DATA301/Notes/Screenshot 2025-03-23 at 1.00.34 PM.png",
     "DATA301/Notes/Screenshot 2025-03-23 at 12.27.29 PM.png",
-    "DATA301/Notes/Screenshot 2025-03-23 at 12.26.36 PM.png",
-    "DATA301/Notes/Screenshot 2025-03-23 at 12.10.49 PM.png",
     "DATA301/Notes/4 Cloud-Computing.md",
     "README.md",
     "DATA301/Notes/5 Graph Structures.md",
-    "DATA301/Notes/Screenshot 2025-03-23 at 11.59.39 AM.png",
-    "DATA301/Notes/Screenshot 2025-03-23 at 11.55.19 AM.png",
-    "DATA301/Notes/Screenshot 2025-03-15 at 3.29.18 PM.png",
     "COSC364/Lecture Notes/2. Routing.md",
     "DATA301/Notes/1.md",
     "DATA301/Notes/2.md",

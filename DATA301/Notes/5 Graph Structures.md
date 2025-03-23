@@ -28,3 +28,21 @@ Ranking Nodes on the graph on basis of importance![[Screenshot 2025-03-23 at 1.0
 Figure out which nodes are important
 
 ![[Screenshot 2025-03-23 at 1.23.43 PM.png]]
+## Simple Recursive Formulation
+![[Screenshot 2025-03-23 at 1.26.53 PM.png]]
+- A page is important if it is pointed to by other important pages
+---
+![[Screenshot 2025-03-23 at 1.40.22 PM.png]]
+
+| Node |   1 |  2  | 3   | 4   |
+| :--- | --: | :-: | --- | --- |
+| 1    |   0 |  1  | 0   | 0   |
+| 2    | 1/2 |  0  | 0   | 0   |
+| 3    | 1/2 |  0  | 0   | 1   |
+| 4    |   0 |  0  | 1   | 0   |
+Assume all columns sum to 1
+- All columns represent outgoing links
+- for node 1. links to 2 & 3 are 1/2 because 50% of the time you'll end up at node 2 and 50% of the time you'll end up at node 3 and 0 chances you'll end up at 1 or 4
+![[IMG_5312.jpeg]]
+---
+ ![[Screenshot 2025-03-23 at 2.31.39 PM.png]]
